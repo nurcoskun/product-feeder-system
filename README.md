@@ -6,3 +6,5 @@ Composer is used in the project.
 ```
 
 To add a different platform, it is sufficient to define it in the Adapter folder.
+
+The flow starts with ```index.php```
